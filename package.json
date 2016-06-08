@@ -1,7 +1,7 @@
 {
   "name": "mock-chai-sinon",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very basic look at how to set up Mocka, Chai and Sinon.",
   "main": "index.js",
   "devDependencies": {
     "chai": "^3.5.0",
