@@ -6,4 +6,4 @@ A very basic look at how to set up Mocka, Chai and Sinon
     $> npm install --save-dev chai sinon
 
 ## Run:
-    $> mocha specs --require specs/helpers/chai.js --reporter spec
+    $> mocha specs --require chai.js --reporter spec
