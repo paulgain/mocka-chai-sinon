@@ -1,0 +1,17 @@
+{
+  "name": "mock-chai-sinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocka": "^0.0.1",
+    "sinon": "^1.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocka"
+  },
+  "author": "",
+  "license": "ISC"
+}
